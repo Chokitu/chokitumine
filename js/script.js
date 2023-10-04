@@ -65,7 +65,7 @@ const config = {
         builders: [
             {
                 inGameName: "Luayx",
-                rank: "Builder++",
+                rank: "Builder Leader",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
@@ -76,7 +76,7 @@ const config = {
                 rankColor: ""
             },
             {
-                inGameName: "Little_Beans",
+                inGameName: "Bean_Little",
                 rank: "Builder+",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
